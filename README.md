@@ -20,3 +20,7 @@ The application provides a structured learning experience through:
 - **Offline Experience:** All gameplay, progress, difficulty settings, and best scores are stored locally without requiring an internet connection.
 
 By combining AR technology, physics-based simulation, and game-based learning, AeroQuest aims to make drone training more accessible while reducing the risk of hardware damage, wasted batteries, and unsafe beginner flights.
+
+
+# PROJECT DEMO VIDEO
+video link: https://drive.google.com/file/d/1PQXwT46XZBihM2P9QbrYcKr7wzAa0cTp/view?usp=sharing
