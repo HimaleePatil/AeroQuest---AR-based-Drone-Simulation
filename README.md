@@ -148,5 +148,5 @@ We believe that the best way to learn flying a drone is to practise, experiment,
 
 ### 🔗 Project Repository
 
-[GitHub – AeroQuest (PlutoAR)](https://github.com/huzy-2006-eng/PlutoAR)
+[GitHub – AeroQuest (PlutoAR)](https://github.com/HimaleePatil/AeroQuest---AR-based-Drone-Simulation)
 
